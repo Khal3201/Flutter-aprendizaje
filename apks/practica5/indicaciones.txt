@@ -1,0 +1,1 @@
+Implementar un menú de opciones en la segunda pantalla de la practica 4 y generar un apk para visualizar resultados en un dispositivo movil
